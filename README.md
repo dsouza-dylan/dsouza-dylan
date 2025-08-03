@@ -4,16 +4,6 @@ I'm an undergraduate Data Science student at the **University of California San 
 
 ---
 
-## 🔍 What I Do
-I enjoy working with intricate datasets—**extracting**, **transforming**, and **synthesizing** data to:
-- uncover actionable insights,
-- build meaningful visualizations,
-- and support science-driven, data-informed decision-making.
-
-My work bridges **computation**, **storytelling**, and **scientific curiosity**, often inspired by the patterns found in the natural world.
-
----
-
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python, C/C++, HTML/CSS, JavaScript, R, SQL
 - **Libraries/Frameworks:** NumPy, pandas, scikit-learn, Keras, TensorFlow, OpenCV, Plotly, Streamlit, Xarray, Joblib
