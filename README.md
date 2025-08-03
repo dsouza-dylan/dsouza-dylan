@@ -11,15 +11,8 @@ I'm an undergraduate Data Science student at the **University of California San 
 
 ---
 
-## 🌱 Currently Exploring
-- Coral reef restoration with machine learning 🌊
-- Shot pattern analysis in the NBA 🏀
-- Social impact projects leveraging data for good
-
----
-
-## 🎥 Outside of Tech
-When I’m not coding, you’ll find me behind a camera lens 📸 or outdoors running and hiking. My love for **photography** and **videography** often reflects the same appreciation for natural patterns that fuel my work in data.
+## 📸 Outside of Data Science
+When I’m not coding, you’ll find me behind a camera lens or outdoors running and hiking. My love for **photography** and **videography** often reflects the same appreciation for natural patterns that fuel my work in data.
 
 ---
 
