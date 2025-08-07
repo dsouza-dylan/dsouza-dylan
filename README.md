@@ -7,7 +7,7 @@ I'm an undergraduate Data Science student at the **University of California San 
 ## Technical Skills
 - **Languages:** Java, Python, C/C++, HTML/CSS, JavaScript, R, SQL
 - **Libraries/Frameworks:** NumPy, pandas, scikit-learn, Keras, TensorFlow, OpenCV, Plotly, Streamlit, Xarray, Joblib
-- **Core Competencies:** Data Cleaning, Visualization, EDA, Feature Engineering, Machine Learning, Predictive Modeling
+- **Core Competencies:** Data Cleaning, Data Visualization, EDA, Feature Engineering, Machine Learning, Predictive Modeling
 
 ---
 
