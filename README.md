@@ -1,13 +1,13 @@
-# Hi, I'm Dylan Dsouza.
+# Hi, I'm **Dylan Dsouza**.
 
-I'm an undergraduate Data Science student at the **University of California San Diego**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm passionate about using data to solve real-world problems, tell compelling stories, and drive impactful decisions.
+I'm an undergraduate **Data Science** student at the **University of California San Diego**, specializing in **Machine Learning** and **Artificial Intelligence**. I'm passionate about using data to solve real-world problems, tell compelling stories, and drive impactful decisions.
 
 ---
 
 ## Technical Skills
-- **Languages:** Java, Python, C/C++, HTML/CSS, JavaScript, R, SQL
-- **Libraries/Frameworks:** NumPy, pandas, scikit-learn, Keras, TensorFlow, OpenCV, Plotly, Streamlit, Xarray, Joblib
-- **Core Competencies:** Data Cleaning, Data Visualization, EDA, Feature Engineering, Machine Learning, Predictive Modeling
+- **Languages:** Python, SQL, R, Java, C, C++, HTML, CSS, JavaScript
+- **Libraries/Frameworks:** NumPy, pandas, scikit-learn, PyTorch, TensorFlow, OpenCV, Plotly, LangChain, Jupyter, Git/GitHub
+- **Core Competencies:** Data Cleaning/Visualization, EDA, Web Scraping, A/B Testing, Financial Modeling, Time Series Analysis
 
 ---
 
